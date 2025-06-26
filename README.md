@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @usamamanzoor991
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me usamamanzoor991@gmail.com
 <!---
